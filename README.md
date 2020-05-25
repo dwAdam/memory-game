@@ -1,6 +1,6 @@
 # M e m o r y   G a m e
 You have to find the same backgroung colour in every single cards. The text messages is the hard factors, you try to dont see those.
-Good Luck!
+### Good Luck!
 
 This game's engine contains -> IIFE, I dropped the 'var' variable and I start use 'let' and 'const', Math object, Ternary operator and some functions().
 
